@@ -8,7 +8,7 @@ _banner_ = '''
 += No Spam Dettect Server Facebook =+
 +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 
-# author : 4ltf4
+# author : jokar sojib
 # contact: izzuddinanshori8@gmail.com
 '''
 user=raw_input('username/email: ')
